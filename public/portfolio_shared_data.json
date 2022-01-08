@@ -1,68 +1,115 @@
 {
-    "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
-      "social": [
-        {
-          "name": "github",
-          "url": "https://github.com",
-          "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
-        }
-      ],
-      "image": "myProfile.jpg"
-    },
-    "skills": {
-      "icons": [
-        {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
-        }
-      ]
-    }
+  "basic_info": {
+    "name": "Israel Aire",
+    "titles": [
+      "FullStack web and mobile Developer",
+      "Devops Specialist",
+      "Senior Data Engineer",
+      "ML & AI Engineer",
+      "Mechanical Engineer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/raraku",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://twitter.com/IsraelAire",
+        "class": "fab fa-twitter"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "95"
+      },
+      {
+        "name": "Django",
+        "class": "devicon-django-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS3",
+        "class": "devicon-css3-plain",
+        "level": "80"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "C#",
+        "class": "devicon-csharp-plain",
+        "level": "65"
+      },
+      {
+        "name": "Golang",
+        "class": "devicon-go-original-wordmark",
+        "level": "65"
+      },
+      {
+        "name": "Express",
+        "class": "devicon-express-original",
+        "level": "65"
+      },
+      {
+        "name": "Solidity",
+        "class": "devicon-crystal-original",
+        "level": "65"
+      },
+      {
+        "name": "Jupyter",
+        "class": "devicon-jupyter-plain",
+        "level": "65"
+      },
+
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "65"
+      },
+      {
+        "name": "Kubernetes",
+        "class": "devicon-kubernetes-plain",
+        "level": "65"
+      },
+      {
+        "name": "React Native",
+        "class": "devicon-react-plain",
+        "level": "65"
+      },
+      {
+        "name": "Wordpress",
+        "class": "devicon-wordpress-plain",
+        "level": "65"
+      },
+      {
+        "name": "Tensorflow",
+        "class": "devicon-tensorflow-original",
+        "level": "65"
+      },
+      {
+        "name": "SQL",
+        "class": "devicon-postgresql-plain",
+        "level": "60"
+      }
+    ]
   }
+}

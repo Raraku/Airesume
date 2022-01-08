@@ -1,118 +1,123 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋I'm Israel Aire; A fullstack web, mobile and game developer obsessed with creating groundbreaking products and bringing ideas to life. I live, love and breathe software development, anime and books.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Elitemanga",
+      "startDate": "2019",
+      "description": "I decided to create my own manga and anime review site on a similar scale to MyAnimeList. The site is live at https://elitemanga.net and it attracts thousands of monthly visits",
+      "images": [
+        "images/portfolio/elitemanga/ELI1.PNG",
+        "images/portfolio/elitemanga/ELI2.PNG"
+      ],
+      "url": "https://elitemanga.net",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-django-plain",
+          "name": "django"
+        },
+        {
+          "class": "devicon-heroku-original",
+          "name": "Heroku"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "RemakeU",
+      "startDate": "2020",
+      "description": "This was a mobile application I developed during the pandemic; the aim was to help people develop better habits. I built it with React Native, Firebase and a sprinkling on Django. It is currently active on the Google Play Store",
+      "images": [
+        "images/portfolio/remakeu/remakeu1.png",
+        "images/portfolio/remakeu/remakeu2.png"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.eria.remakeU&hl=en&gl=US",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        }
+      ]
+    },
+    {
+      "title": "Jumga Ecommerce",
+      "startDate": "2020",
+      "description": "I built a complete ecommerce solution with React and Django using a Customer, Shop and Administrator model similar to Amazon.",
+      "images": [
+        "images/portfolio/jumga/jumga1.png",
+        "images/portfolio/jumga/jumga2.png"
+      ],
+      "url": "https://jumga1.netlify.app",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Omisej Nigeria Limited",
+      "title": "IT Technician",
+      "years": "2019 - 2020",
+      "mainTech": ["React.JS"],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Bootstrap",
+        "TailwindCSS",
+        "Cloud Functions"
+      ]
+    },
+    {
+      "company": "Aire Studios",
+      "title": "Head of Engineering",
+      "years": "2019 - present",
+      "mainTech": ["React.JS"],
+      "technologies": [
+        "REST API",
+        "React",
+        "Django",
+        "React Native",
+        "Express.JS",
+        "Golang",
+        "Unreal Engine",
+        "JavaScript",
+        "Bootstrap",
+        "TailwindCSS",
+        "Cloud Functions"
+      ]
+    },
+    {
+      "company": "Sellaf",
+      "title": "Engineering Consultant",
+      "years": "2020",
+      "mainTech": ["Django"],
+      "technologies": ["React", "Django", "JavaScript", "Express.JS"]
+    }
+  ]
+}
